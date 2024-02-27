@@ -1,0 +1,19 @@
+{
+  "name": "waste-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "mapbox-gl": "^3.1.0",
+    "papaparse": "^5.4.1",
+    "three": "^0.160.0"
+  }
+}
