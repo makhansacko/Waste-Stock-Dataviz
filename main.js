@@ -42,7 +42,7 @@ const modelPaths = [
 'https://storage.googleapis.com/waste_stock_3d_models/public/September%202_compressed.glb',
 'https://storage.googleapis.com/waste_stock_3d_models/public/September%209_compressed.glb', 
 'https://storage.googleapis.com/waste_stock_3d_models/public/September%2016_compressed.glb', 
-'https://storage.googleapis.com/waste_stock_3d_models/public/September%2023_compressed.glbb', 
+'https://storage.googleapis.com/waste_stock_3d_models/public/September%2023_compressed.glb', 
 'https://storage.googleapis.com/waste_stock_3d_models/public/October%201_compressed.glb',
 'https://storage.googleapis.com/waste_stock_3d_models/public/October%207_compressed.glb',
 'https://storage.googleapis.com/waste_stock_3d_models/public/October%2014_compressed.glb', 
