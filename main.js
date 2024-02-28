@@ -27,7 +27,7 @@ controls.dampingFactor = 0.05;
 
 const models = [];
 const modelPaths = [
-'https://storage.googleapis.com/waste_stock_3d_models/public/July%2011%20AM.glb',
+'https://storage.googleapis.com/waste_stock_3d_models/public/July%2011%20AM_compressed.glb',
 'https://storage.googleapis.com/waste_stock_3d_models/public/July%2011%20PM.glb', 
 'https://storage.googleapis.com/waste_stock_3d_models/public/July%2012%20AM.glb', 
 'https://storage.googleapis.com/waste_stock_3d_models/public/July%2012%20PM.glb', 
